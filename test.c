@@ -2,4 +2,5 @@
 
 main(){
 print ("This is the test porogram");
+print()
 }
