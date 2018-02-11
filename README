@@ -6,3 +6,4 @@ creating a new branch is feature1
 second branch dev, modify README
 third time to switch dev for bug branch
 local change vim READme in dev
+edit after pull from dev from github
